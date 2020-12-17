@@ -4,9 +4,7 @@ I first started programming at age 9.
 I enjoy networking, competitive programming and android develoment and programming in general  
 Im always working on a project so stay tuned!  
 🎤sawarasenai🥰kimi😸wa⛓shojo👻na💅no?✨bökù🌸wâ🧚ÿariçhiñ🤴bįcchī😾ńo😩osû🚣dà🎉yo💦  
-Lorem ipsum dolor sit amet.
-[button url="http://www.google.com"]
-
+<button name="button" onclick="http://www.google.com">Click me</button>
 <!--
 **DavidCurca/DavidCurca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
