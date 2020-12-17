@@ -3,7 +3,7 @@
 ### I first started programming at age 9.  
 ### I enjoy networking, competitive programming and android develoment and programming in general  
 ### Im always working on a project so stay tuned!  
-###🎤sawarasenai🥰kimi😸wa⛓shojo👻na💅no?✨bökù🌸wâ🧚ÿariçhiñ🤴bįcchī😾ńo😩osû🚣dà🎉yo💦  
+### 🎤sawarasenai🥰kimi😸wa⛓shojo👻na💅no?✨bökù🌸wâ🧚ÿariçhiñ🤴bįcchī😾ńo😩osû🚣dà🎉yo💦  
 
 
 <!--
