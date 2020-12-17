@@ -1,5 +1,5 @@
 ### 🚨🚨🚨 Cool Programmer Alert 🚨🚨🚨
-### My name is David. Im a nerd and i like turkey, and also lasagna  
+My name is David. Im a nerd and i like turkey, and also lasagna  
 I first started programming at age 9.  
 I enjoy networking, competitive programming and android develoment and programming in general  
 Im always working on a project so stay tuned!  
