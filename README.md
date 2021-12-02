@@ -1,4 +1,4 @@
-### 🚨🚨🚨 Cool Programmer Alert 🚨🚨🚨
+<!--### 🚨🚨🚨 Cool Programmer Alert 🚨🚨🚨
 My name is David. Im a nerd and i like turkey, and also lasagna  
 I first started programming at age 9.  
 I enjoy networking, competitive programming and android develoment and programming in general  
@@ -8,7 +8,6 @@ Im always working on a project so stay tuned!
 [<img src="https://camo.githubusercontent.com/682042cefd12c16c0a35036aede5c81bba484f78d3391b216a7620c9e5807de4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d61696c206d652d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" style="max-width:100%;"/>](https://github.com/user/repository/subscription)
 
 [<img src="https://github.com/DavidCurca/DavidCurca/blob/master/dis.png?raw=true" style="width: 28px; height: 105px;"/>](https://github.com/user/repository/subscription)
-<!--
 **DavidCurca/DavidCurca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
