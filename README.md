@@ -1,4 +1,4 @@
-<img width="534" height="800" alt="cosmin" src="https://github.com/user-attachments/assets/b8881512-c866-4e95-be6a-690b415f5af0" /><p align="center>
+<p align="center>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://i.postimg.cc/jSkw4STP/cosmin.png" />
 </p>
 
